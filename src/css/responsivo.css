@@ -1,0 +1,39 @@
+@media (max-widht: 1120px) {
+    .cabeca .logo {
+        max-width: 190px;
+    }
+
+    .selec-per {
+        flex-direction: column-reverse;
+        max-width: 430px;
+        margin: 0 auto;
+    }
+
+    .selec-per .pers {
+        margin-top: 37px;
+    }
+
+    .selec-per .titulo {
+        font-size: 15px;
+    }
+
+    .selec-per .list-per {
+        gap: 9px;
+    }
+
+    .selec-per .pers img {
+        width: 80px;
+    }
+
+    .selec-per .per-grande {
+        width: 350px;
+        height: 350px;
+    }
+
+    .selec-per .descricao-per {
+        font-size: 16px;
+        margin: 20px auto;
+        width: 80%;
+    }
+
+}
